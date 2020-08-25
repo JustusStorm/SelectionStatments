@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectionStatements", "SelectionStatements\SelectionStatements.csproj", "{DE6A9589-3B2D-4BD9-BEA0-8AF52E1DAB09}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelectionStatements", "SelectionStatements\SelectionStatements.csproj", "{DE6A9589-3B2D-4BD9-BEA0-8AF52E1DAB09}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Custom", "..\..\DLL_Files\Custom\Custom\Custom.csproj", "{3E5B2009-24C5-49D3-86FC-C39BA28495B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{DE6A9589-3B2D-4BD9-BEA0-8AF52E1DAB09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE6A9589-3B2D-4BD9-BEA0-8AF52E1DAB09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE6A9589-3B2D-4BD9-BEA0-8AF52E1DAB09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E5B2009-24C5-49D3-86FC-C39BA28495B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E5B2009-24C5-49D3-86FC-C39BA28495B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E5B2009-24C5-49D3-86FC-C39BA28495B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E5B2009-24C5-49D3-86FC-C39BA28495B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

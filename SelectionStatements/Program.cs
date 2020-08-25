@@ -23,7 +23,7 @@ namespace SelectionStatements
 
                 if (count == 4)
                 {
-                    Console.WriteLine("You are out of guesses! The game is over!" +
+                    Console.WriteLine("You are out of guesses! The game is over!\n" +
                         "Press Enter to end program...");
                     Console.ReadKey();
                     break;
