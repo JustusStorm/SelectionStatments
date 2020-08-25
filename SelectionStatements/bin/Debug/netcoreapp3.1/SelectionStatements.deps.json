@@ -7,8 +7,19 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "SelectionStatements/1.0.0": {
+        "dependencies": {
+          "Custom": "1.0.0.0"
+        },
         "runtime": {
           "SelectionStatements.dll": {}
+        }
+      },
+      "Custom/1.0.0.0": {
+        "runtime": {
+          "Custom.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
@@ -16,6 +27,11 @@
   "libraries": {
     "SelectionStatements/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Custom/1.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }
