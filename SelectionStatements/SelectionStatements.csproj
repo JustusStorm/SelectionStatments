@@ -5,4 +5,10 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="Custom">
+      <HintPath>..\..\..\DLL_Files\Custom\Custom\bin\Debug\netcoreapp3.1\Custom.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

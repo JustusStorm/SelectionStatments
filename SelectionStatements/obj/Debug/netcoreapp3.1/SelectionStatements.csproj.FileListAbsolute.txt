@@ -11,3 +11,6 @@ D:\Github_Repositories\TrueCoders\SelectionStatements\SelectionStatements\obj\De
 D:\Github_Repositories\TrueCoders\SelectionStatements\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.dll
 D:\Github_Repositories\TrueCoders\SelectionStatements\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.pdb
 D:\Github_Repositories\TrueCoders\SelectionStatements\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.genruntimeconfig.cache
+D:\Github_Repositories\TrueCoders\SelectionStatements\SelectionStatements\bin\Debug\netcoreapp3.1\Custom.dll
+D:\Github_Repositories\TrueCoders\SelectionStatements\SelectionStatements\bin\Debug\netcoreapp3.1\Custom.pdb
+D:\Github_Repositories\TrueCoders\SelectionStatements\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.csproj.CopyComplete
