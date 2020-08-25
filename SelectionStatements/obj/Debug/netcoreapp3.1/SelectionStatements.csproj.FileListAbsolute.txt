@@ -1,0 +1,13 @@
+D:\Github_Repositories\TrueCoders\SelectionStatements\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.exe
+D:\Github_Repositories\TrueCoders\SelectionStatements\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.deps.json
+D:\Github_Repositories\TrueCoders\SelectionStatements\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.runtimeconfig.json
+D:\Github_Repositories\TrueCoders\SelectionStatements\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.runtimeconfig.dev.json
+D:\Github_Repositories\TrueCoders\SelectionStatements\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.dll
+D:\Github_Repositories\TrueCoders\SelectionStatements\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.pdb
+D:\Github_Repositories\TrueCoders\SelectionStatements\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.csprojAssemblyReference.cache
+D:\Github_Repositories\TrueCoders\SelectionStatements\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.AssemblyInfoInputs.cache
+D:\Github_Repositories\TrueCoders\SelectionStatements\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.AssemblyInfo.cs
+D:\Github_Repositories\TrueCoders\SelectionStatements\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.csproj.CoreCompileInputs.cache
+D:\Github_Repositories\TrueCoders\SelectionStatements\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.dll
+D:\Github_Repositories\TrueCoders\SelectionStatements\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.pdb
+D:\Github_Repositories\TrueCoders\SelectionStatements\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.genruntimeconfig.cache
