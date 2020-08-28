@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Threading;
-using Custom;
+
 
 namespace SelectionStatements
 {
@@ -16,7 +16,7 @@ namespace SelectionStatements
 
 
             Console.WriteLine("I'm thinking of a number 1 to 20. I bet you can't guess what it is.");
-            UI.Spacer();
+            Console.WriteLine();
             
             for ( ; count <= 4; count++) // user is only allowed 4 guesses
             {
@@ -37,7 +37,7 @@ namespace SelectionStatements
                     Console.WriteLine($"You have {maxCount - count} guesses left.");
                 }
 
-                UI.Spacer();
+                Console.WriteLine();
                 Console.Write("Guess a number 1-20 ==>  ");
                 
                 int userGuess = Convert.ToInt32(Console.ReadLine());
